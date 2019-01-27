@@ -10,7 +10,7 @@ import javax.xml.parsers.*;
 public class SAXParser_DataStore extends DefaultHandler
 {
 	public static String HOME_DIR = System.getenv("ANT_HOME");
-	public static String PRODUCT_CATALOG_FILE = HOME_DIR + "\\webapps\\project2_merged\\ProductCatalog.xml";
+	public static String PRODUCT_CATALOG_FILE = HOME_DIR + "\\webapps\\project\\ProductCatalog.xml";
 
 	Product product = null;
 	String elementValue = null;

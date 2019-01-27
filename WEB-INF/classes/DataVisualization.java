@@ -22,7 +22,7 @@ public class DataVisualization extends HttpServlet
 		sb.append("<h3 class='title'>Goods on Sale</h3>");
 
 		sb.append("<script src=\"https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js\"/>");
-    	sb.append("<script src=\"C:/tomcat-7.0.34-preconfigured/apache-tomcat-7.0.34/webapps/project2_merged/markerclusterer.js\"/>");
+    	sb.append("<script src=\"C:/tomcat-7.0.34-preconfigured/apache-tomcat-7.0.34/webapps/project2/markerclusterer.js\"/>");
     	sb.append("<meta name=\"viewport\" content=\"initial-scale=1.0, user-scalable=no\">");
     	sb.append("<meta charset=\"utf-8\">");
     	sb.append("<script src=\"http://maps.google.com/maps/api/js?sensor=false\"></script>");

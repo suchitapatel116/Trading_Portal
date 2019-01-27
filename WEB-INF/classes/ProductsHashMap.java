@@ -6,10 +6,7 @@ public class ProductsHashMap implements Serializable
     //<product type, products list>
 	private static Map<String, List<Product>> products_map = new HashMap<>();
 
-    /*
-	public static Map<String, List<Product>> getProductsMap(String user){
-		return products_map;
-	}*/
+   
 	public static void setProductsMap(Map<String, List<Product>> map){
 		products_map.putAll(map);
 	}

@@ -21,7 +21,6 @@ function doCompletion() {
 }
 
 function initRequest() {
-//console.log("...initRequest...");
 	if (window.XMLHttpRequest) {
 		if (navigator.userAgent.indexOf('MSIE') != -1) {
 			isIE = true;
@@ -84,7 +83,6 @@ function parseMessages(responseXML) {
 }
 
 function callback() {
-//console.log("...callback...");
 	clearTable();
 	if (req.readyState == 4) {
 		if (req.status == 200)

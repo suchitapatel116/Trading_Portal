@@ -44,11 +44,7 @@ public class SendMessage extends HttpServlet
             				+"</p>";
 
 		contentData +="<p>"
-                	/*+"<label for='userType'>User Type:</label>"
-                    +"<select name='userType' style='width: 30%;' required>"
-                    	+"<option value='buyer' >Buyer</option> "
-				 		+"<option value='seller' >Seller</option> "
-				 	+"</select>"*/
+                	
                 +"<p>"
                 	+"<label for='receiver'>To:</label>"
 					+"<label'>"+receiver+"</label>"
@@ -63,10 +59,7 @@ public class SendMessage extends HttpServlet
                 +"</p><p>"
                     +"<label for='message'>Message:</label>"
                     +"<input type='textbox' name='message' value='' placeholder='Enter Message' style='width: 30%;' required />"
-                +"</p><p>"/*
-                	+"<label for='tel'>Contact No:</label>"
-                    +"<input type='tel' name='contactno' value='' placeholder='Enter Contact No' style='width: 30%;' required />"
-                +"</p>"*/
+                +"</p><p>"
                 +"<p id='test'><input name='submit' style='margin-left: 200px; width: 30%;' class='main-btn' value='Send Message' type='submit' /></p>"
             +"</form>"
         +"</fieldset>"
