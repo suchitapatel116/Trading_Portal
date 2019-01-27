@@ -1,0 +1,2125 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<ProductCatalog>
+<products>
+<Electronics>
+<Television id="1">
+<title>
+Samsung TV
+</title>
+<image>
+Samsung_TV.jpg
+</image>
+<price>
+300
+</price>
+<condition>
+used for 15 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+Robert
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+910 W Huron St, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60642
+</zipcode>
+</Television>
+<Television id="2">
+<title>
+Panasonic TV
+</title>
+<image>
+Panasonic_TV.jpg
+</image>
+<price>
+200
+</price>
+<condition>
+used for 18 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+Maria
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+710 W Grand Ave, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60654
+</zipcode>
+</Television>
+<Television id="3">
+<title>
+Sony TV
+</title>
+<image>
+Sony_TV.jpg
+</image>
+<price>
+400
+</price>
+<condition>
+used for 20 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+David
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+N Green St, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60640
+</zipcode>
+</Television>
+<Laptop id="4">
+<title>
+Dell Latitude Laptop
+</title>
+<image>
+dell_latitude.jpg
+</image>
+<price>
+400
+</price>
+<condition>
+used for 18 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+John
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+2157 N Damen Ave, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60647
+</zipcode>
+</Laptop>
+<Laptop id="5">
+<title>
+HP Spectre Laptop
+</title>
+<image>
+hp_spectre.png
+</image>
+<price>
+375
+</price>
+<condition>
+used for 21 months
+</condition>
+<negotiable>
+Yes
+</negotiable>
+<sellerName>
+Sam
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+1521 S Wabash Ave, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60605
+</zipcode>
+</Laptop>
+<Laptop id="6">
+<title>
+Macbook
+</title>
+<image>
+Macbook.jpg
+</image>
+<price>
+800
+</price>
+<condition>
+used for 24 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+James
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+1935 S Wabash Ave, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60616
+</zipcode>
+</Laptop>
+<Phones id="7">
+<title>
+iPhone 7
+</title>
+<image>
+iPhone7.jpg
+</image>
+<price>
+300
+</price>
+<condition>
+used for 24 months
+</condition>
+<negotiable>
+Yes
+</negotiable>
+<sellerName>
+James
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+1935 S Wabash Ave, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60616
+</zipcode>
+</Phones>
+<Phones id="8">
+<title>
+iPhone 8
+</title>
+<image>
+iPhone8.jpg
+</image>
+<price>
+400
+</price>
+<condition>
+used for 24 months
+</condition>
+<negotiable>
+Yes
+</negotiable>
+<sellerName>
+James
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+1935 S Wabash Ave, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60616
+</zipcode>
+</Phones>
+<Phones id="9">
+<title>
+LG Phone
+</title>
+<image>
+lg1.jpg
+</image>
+<price>
+129
+</price>
+<condition>
+used for 24 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+Mary
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+4952 W 115th St, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60655
+</zipcode>
+</Phones>
+<Phones id="10">
+<title>
+Samsung Phone
+</title>
+<image>
+s1.jpg
+</image>
+<price>
+349
+</price>
+<condition>
+used for 17 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+Jenny
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+2470 N Clark St, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60614
+</zipcode>
+</Phones>
+<Phones id="11">
+<title>
+Google Pixel 3
+</title>
+<image>
+pixel3.jpg
+</image>
+<price>
+500
+</price>
+<condition>
+used for 12 months
+</condition>
+<negotiable>
+Np
+</negotiable>
+<sellerName>
+Emma
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+2052 N Lincoln Park, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60185
+</zipcode>
+</Phones>
+<Gaming id="12">
+<title>
+XBOX
+</title>
+<image>
+xbox.jpg
+</image>
+<price>
+70
+</price>
+<condition>
+used for 24 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+James
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+1935 S Wabash Ave, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60616
+</zipcode>
+</Gaming>
+<Gaming id="13">
+<title>
+XBOX 1
+</title>
+<image>
+xbox1.jpg
+</image>
+<price>
+70
+</price>
+<condition>
+used for 24 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+Sam
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+1521 S Wabash Ave, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60605
+</zipcode>
+</Gaming>
+<Gaming id="14">
+<title>
+PS4
+</title>
+<image>
+ps4.jpeg
+</image>
+<price>
+50
+</price>
+<condition>
+used for 24 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+David
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+N Green St, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60640
+</zipcode>
+</Gaming>
+<VaccuumCleaner id="15">
+<title>
+Vaccuum Cleaner 1
+</title>
+<image>
+vc1.jpg
+</image>
+<price>
+10
+</price>
+<condition>
+used for 9 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+David
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+N Green St, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60640
+</zipcode>
+</VaccuumCleaner>
+<VaccuumCleaner id="16">
+<title>
+Vaccuum Cleaner 2
+</title>
+<image>
+vc2.jpeg
+</image>
+<price>
+15
+</price>
+<condition>
+used for 6 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+Maria
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+710 W Grand Ave, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60654
+</zipcode>
+</VaccuumCleaner>
+<VaccuumCleaner id="17">
+<title>
+Vaccuum Cleaner 3
+</title>
+<image>
+vc3.png
+</image>
+<price>
+20
+</price>
+<condition>
+used for 3 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+Mary
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+4052 W 115th St, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60655
+</zipcode>
+</VaccuumCleaner>
+</Electronics>
+<Books>
+<Academics id ="18">
+<title>
+Java Book
+</title>
+<image>
+java.jpg
+</image>
+<price>
+9
+</price>
+<condition>
+used for 6 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+Emily
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+4334 N Hazel St, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60613
+</zipcode>
+</Academics>
+<Academics id ="19">
+<title>
+Java Servlet Book
+</title>
+<image>
+java2.jpg
+</image>
+<price>
+9
+</price>
+<condition>
+used for 6 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+Emily
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+4334 N Hazel St, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60613
+</zipcode>
+</Academics>
+<Academics id ="20">
+<title>
+Data Mining Book
+</title>
+<image>
+dm1.jpg
+</image>
+<price>
+10
+</price>
+<condition>
+used for 6 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+Emily
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+4334 N Hazel St, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60613
+</zipcode>
+</Academics>
+<Academics id ="21">
+<title>
+Database Management Book
+</title>
+<image>
+db1.jpg
+</image>
+<price>
+11
+</price>
+<condition>
+used for 6 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+Emily
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+4334 N Hazel St, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60613
+</zipcode>
+</Academics>
+<Academics id ="22">
+<title>
+Mathematics Book
+</title>
+<image>
+math1.jpg
+</image>
+<price>
+9
+</price>
+<condition>
+used for 6 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+Emily
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+4334 N Hazel St, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60613
+</zipcode>
+</Academics>
+<Academics id ="23">
+<title>
+Computer Networks Book
+</title>
+<image>
+cn1.jpg
+</image>
+<price>
+9
+</price>
+<condition>
+used for 6 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+Emily
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+4334 N Hazel St, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60613
+</zipcode>
+</Academics>
+<Academics id ="24">
+<title>
+Software Engineering Book
+</title>
+<image>
+se1.jpg
+</image>
+<price>
+9
+</price>
+<condition>
+used for 6 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+Emily
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+4334 N Hazel St, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60613
+</zipcode>
+</Academics>
+<NonAcademics id ="25">
+<title>
+Fiction Book 1
+</title>
+<image>
+1.jpg
+</image>
+<price>
+5
+</price>
+<condition>
+used for 12 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+Emma
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+2052 N Lincoln Park, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60185
+</zipcode>
+</NonAcademics>
+<NonAcademics id ="26">
+<title>
+Fiction Book 2
+</title>
+<image>
+2.jpg
+</image>
+<price>
+5
+</price>
+<condition>
+used for 12 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+Emma
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+2052 N Lincoln Park, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60185
+</zipcode>
+</NonAcademics>
+<NonAcademics id ="27">
+<title>
+Fiction Book 3
+</title>
+<image>
+3.jpg
+</image>
+<price>
+5
+</price>
+<condition>
+used for 12 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+Emma
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+2052 N Lincoln Park, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60185
+</zipcode>
+</NonAcademics>
+<NonAcademics id ="28">
+<title>
+Fiction Book 4
+</title>
+<image>
+4.jpg
+</image>
+<price>
+5
+</price>
+<condition>
+used for 12 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+Emma
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+2052 N Lincoln Park, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60185
+</zipcode>
+</NonAcademics>
+<NonAcademics id ="29">
+<title>
+Fiction Book 5
+</title>
+<image>
+5.jpg
+</image>
+<price>
+5
+</price>
+<condition>
+used for 12 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+Emma
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+2052 N Lincoln Park, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60185
+</zipcode>
+</NonAcademics>
+<NonAcademics id ="30">
+<title>
+Fiction Book 6
+</title>
+<image>
+6.jpg
+</image>
+<price>
+5
+</price>
+<condition>
+used for 12 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+Emma
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+2052 N Lincoln Park, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60185
+</zipcode>
+</NonAcademics>
+</Books>
+<Furniture>
+<Sofa id="31">
+<title>
+Sofa 1
+</title>
+<image>
+sofa1.jpg
+</image>
+<price>
+50
+</price>
+<condition>
+used for 6 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+Emma
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+2052 N Lincoln Park, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60185
+</zipcode>
+</Sofa>
+<Sofa id="32">
+<title>
+Sofa 2
+</title>
+<image>
+sofa2.jpeg
+</image>
+<price>
+30
+</price>
+<condition>
+used for 6 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+Jenny
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+2470 N Clark St, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60614
+</zipcode>
+</Sofa>
+<Sofa id="33">
+<title>
+Sofa 3
+</title>
+<image>
+sofa3.jpg
+</image>
+<price>
+25
+</price>
+<condition>
+used for 6 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+Mary
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+4052 W 115th St, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60655
+</zipcode>
+</Sofa>
+<Beds id="34">
+<title>
+Bed 1
+</title>
+<image>
+bed1.jpg
+</image>
+<price>
+100
+</price>
+<condition>
+used for 18 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+Mary
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+4052 W 115th St, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60655
+</zipcode>
+</Beds>
+<Beds id="35">
+<title>
+Bed 2
+</title>
+<image>
+bed2.jpg
+</image>
+<price>
+149
+</price>
+<condition>
+used for 10 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+James
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+1935 S Wabash Ave, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60616
+</zipcode>
+</Beds>
+<Beds id="36">
+<title>
+Bed 3
+</title>
+<image>
+bed3.jpg
+</image>
+<price>
+200
+</price>
+<condition>
+used for 9 months
+</condition>
+<negotiable>
+Yes
+</negotiable>
+<sellerName>
+John
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+2157 N Damen Ave, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60647
+</zipcode>
+</Beds>
+<Cupboard id="37">
+<title>
+Cupboard 1
+</title>
+<image>
+cb1.jpg
+</image>
+<price>
+25
+</price>
+<condition>
+used for 7 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+David
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+N Green St, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60640
+</zipcode>
+</Cupboard>
+<Cupboard id="38">
+<title>
+Cupboard 2
+</title>
+<image>
+cb2.jpg
+</image>
+<price>
+40
+</price>
+<condition>
+used for 7 months
+</condition>
+<negotiable>
+Yes
+</negotiable>
+<sellerName>
+Robert
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+910 W Huron St, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60642
+</zipcode>
+</Cupboard>
+<Cupboard id="39">
+<title>
+Cupboard 3
+</title>
+<image>
+cb3.jpg
+</image>
+<price>
+60
+</price>
+<condition>
+used for 5 months
+</condition>
+<negotiable>
+Yes
+</negotiable>
+<sellerName>
+Maria
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+710 W Grand Ave, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60654
+</zipcode>
+</Cupboard>
+<Chair id="40">
+<title>
+Chair 1
+</title>
+<image>
+chair1.jpg
+</image>
+<price>
+8
+</price>
+<condition>
+used for 4 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+Robert
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+910 W Huron St, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60642
+</zipcode>
+</Chair>
+<Chair id="41">
+<title>
+Chair 2
+</title>
+<image>
+chair2.jpg
+</image>
+<price>
+10
+</price>
+<condition>
+used for 3 months
+</condition>
+<negotiable>
+Yes
+</negotiable>
+<sellerName>
+Maria
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+710 W Grand Ave, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60654
+</zipcode>
+</Chair>
+<Chair id="42">
+<title>
+Chair 3
+</title>
+<image>
+chair3.jpeg
+</image>
+<price>
+12
+</price>
+<condition>
+used for 4 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+David
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+N Green St, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60640
+</zipcode>
+</Chair>
+<Table id="43">
+<title>
+Table 1
+</title>
+<image>
+table1.jpg
+</image>
+<price>
+16
+</price>
+<condition>
+used for 4 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+Robert
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+910 W Huron St, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60642
+</zipcode>
+</Table>
+<Table id="44">
+<title>
+Table 2
+</title>
+<image>
+table2.jpg
+</image>
+<price>
+20
+</price>
+<condition>
+used for 11 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+Sam
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+1521 S Wabash Ave, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60605
+</zipcode>
+</Table>
+<Table id="45">
+<title>
+Table 3
+</title>
+<image>
+table3.jpg
+</image>
+<price>
+30
+</price>
+<condition>
+used for 4 months
+</condition>
+<negotiable>
+Yes
+</negotiable>
+<sellerName>
+Mary
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+4052 W 115th St, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60655
+</zipcode>
+</Table>
+</Furniture>
+<AutomobileCatalog>
+<Automobile id="46">
+<title>
+Chevrolet Car 1
+</title>
+<image>
+car1.jpg
+</image>
+<price>
+4000
+</price>
+<condition>
+used for 30 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+Mary
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+4052 W 115th St, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60655
+</zipcode>
+</Automobile>
+<Automobile id="47">
+<title>
+Chevrolet Car 2
+</title>
+<image>
+car2.jpg
+</image>
+<price>
+2500
+</price>
+<condition>
+used for 26 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+Jenny
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+2470 N Clark St, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60614
+</zipcode>
+</Automobile>
+<Automobile id="48">
+<title>
+Camry Car
+</title>
+<image>
+car3.jpg
+</image>
+<price>
+4500
+</price>
+<condition>
+used for 36 months
+</condition>
+<negotiable>
+Yes
+</negotiable>
+<sellerName>
+Emily
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+4334 N Hazel St, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60613
+</zipcode>
+</Automobile>
+<Automobile id="49">
+<title>
+Bicycle 1
+</title>
+<image>
+cycle1.jpeg
+</image>
+<price>
+80
+</price>
+<condition>
+used for 6 months
+</condition>
+<negotiable>
+Yes
+</negotiable>
+<sellerName>
+Emily
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+4334 N Hazel St, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60613
+</zipcode>
+</Automobile>
+<Automobile id="50">
+<title>
+Bicycle 2
+</title>
+<image>
+cycle2.png
+</image>
+<price>
+85
+</price>
+<condition>
+used for 26 months
+</condition>
+<negotiable>
+Yes
+</negotiable>
+<sellerName>
+Jenny
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+2470 N Clark St, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60614
+</zipcode>
+</Automobile>
+<Automobile id="51">
+<title>
+Motorbike 1
+</title>
+<image>
+mb1.jpeg
+</image>
+<price>
+250
+</price>
+<condition>
+used for 12 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+John
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+2157 N Damen Ave, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60647
+</zipcode>
+</Automobile>
+<Automobile id="52">
+<title>
+Motorbike 2
+</title>
+<image>
+mb2.jpg
+</image>
+<price>
+500
+</price>
+<condition>
+used for 17 months
+</condition>
+<negotiable>
+Yes
+</negotiable>
+<sellerName>
+David
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+N Green St, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60640
+</zipcode>
+</Automobile>
+</AutomobileCatalog>
+<SportsAndGym>
+<Sports id="53">
+<title>
+Baseball Set 1
+</title>
+<image>
+baseball1.jpg
+</image>
+<price>
+60
+</price>
+<condition>
+used for 12 months
+</condition>
+<negotiable>
+Yes
+</negotiable>
+<sellerName>
+Robert
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+910 W Huron St, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60642
+</zipcode>
+</Sports>
+<Sports id="54">
+<title>
+Baseball Set 2
+</title>
+<image>
+baseball2.jpg
+</image>
+<price>
+70
+</price>
+<condition>
+used for 14 months
+</condition>
+<negotiable>
+Yes
+</negotiable>
+<sellerName>
+David
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+N Green St, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60640
+</zipcode>
+</Sports>
+<Sports id="55">
+<title>
+Tennis Racket 1
+</title>
+<image>
+r1.jpg
+</image>
+<price>
+24
+</price>
+<condition>
+used for 12 months
+</condition>
+<negotiable>
+Yes
+</negotiable>
+<sellerName>
+Jenny
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+2470 N Clark St, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60614
+</zipcode>
+</Sports>
+<Sports id="56">
+<title>
+Tennis Racket 2
+</title>
+<image>
+r2.jpg
+</image>
+<price>
+60
+</price>
+<condition>
+used for 12 months
+</condition>
+<negotiable>
+Yes
+</negotiable>
+<sellerName>
+Mary
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+4052 W 115th St, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60655
+</zipcode>
+</Sports>
+<Gym id="57">
+<title>
+Dumbells Set
+</title>
+<image>
+dumbells.jpg
+</image>
+<price>
+60
+</price>
+<condition>
+used for 12 months
+</condition>
+<negotiable>
+Yes
+</negotiable>
+<sellerName>
+Robert
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+910 W Huron St, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60642
+</zipcode>
+</Gym>
+<Gym id="58">
+<title>
+Dumbells Set 2
+</title>
+<image>
+dumbells2.jpg
+</image>
+<price>
+20
+</price>
+<condition>
+used for 12 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+Sam
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+1521 S Wabash Ave, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60605
+</zipcode>
+</Gym>
+<Gym id="59">
+<title>
+Gym Equipment
+</title>
+<image>
+gym1.jpg
+</image>
+<price>
+129
+</price>
+<condition>
+used for 12 months
+</condition>
+<negotiable>
+Yes
+</negotiable>
+<sellerName>
+Robert
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+910 W Huron St, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60642
+</zipcode>
+</Gym>
+</SportsAndGym>
+<MiscellaneousCatalog>
+<Miscellaneous id="60">
+<title>
+Microwave
+</title>
+<image>
+m1.jpeg
+</image>
+<price>
+30
+</price>
+<condition>
+used for 12 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+Emma
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+2052 N Lincoln Park, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60185
+</zipcode>
+</Miscellaneous>
+<Miscellaneous id="61">
+<title>
+Microwave 2
+</title>
+<image>
+m2.jpg
+</image>
+<price>
+40
+</price>
+<condition>
+used for 12 months
+</condition>
+<negotiable>
+Yes
+</negotiable>
+<sellerName>
+Emily
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+4334 N Hazel St, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60613
+</zipcode>
+</Miscellaneous>
+<Miscellaneous id="62">
+<title>
+Shoe rack
+</title>
+<image>
+shoe1.jpg
+</image>
+<price>
+5
+</price>
+<condition>
+used for 18 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+Emma
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+2052 N Lincoln Park, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60185
+</zipcode>
+</Miscellaneous>
+<Miscellaneous id="63">
+<title>
+Shoe rack 2
+</title>
+<image>
+shoe2.jpg
+</image>
+<price>
+7
+</price>
+<condition>
+used for 12 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+Mary
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+4052 W 115th St, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60655
+</zipcode>
+</Miscellaneous>
+<Miscellaneous id="64">
+<title>
+Snow Jacket
+</title>
+<image>
+coat1.jpg
+</image>
+<price>
+50
+</price>
+<condition>
+used for 12 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+Jenny
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+2470 N Clark St, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60614
+</zipcode>
+</Miscellaneous>
+<Miscellaneous id="65">
+<title>
+Snow Jacket 2
+</title>
+<image>
+coat2.jpg
+</image>
+<price>
+55
+</price>
+<condition>
+used for 12 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+Emma
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+2052 N Lincoln Park, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60185
+</zipcode>
+</Miscellaneous>
+<Miscellaneous id="66">
+<title>
+Lamp
+</title>
+<image>
+lamp1.jpg
+</image>
+<price>
+11
+</price>
+<condition>
+used for 12 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+Emma
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+2052 N Lincoln Park, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60185
+</zipcode>
+</Miscellaneous>
+<Miscellaneous id="67">
+<title>
+Lamp 2
+</title>
+<image>
+lamp2.jpeg
+</image>
+<price>
+14
+</price>
+<condition>
+used for 12 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+Jenny
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+2470 N Clark St, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60614
+</zipcode>
+</Miscellaneous>
+<Miscellaneous id="68">
+<title>
+Mattress
+</title>
+<image>
+matt1.jpg
+</image>
+<price>
+70
+</price>
+<condition>
+used for 8 months
+</condition>
+<negotiable>
+No
+</negotiable>
+<sellerName>
+Maria
+</sellerName>
+<description>
+</description>
+<pickupaddress>
+710 W Grand Ave, Chicago
+</pickupaddress>
+<postdate>
+11-12-2018
+</postdate>
+<zipcode>
+60654
+</zipcode>
+</Miscellaneous>
+</MiscellaneousCatalog>
+</products>
+</ProductCatalog>
