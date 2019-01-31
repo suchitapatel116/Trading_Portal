@@ -10,6 +10,6 @@ A communication-based trading website where users can buy or sell goods.
   - Reviews and Ratings: User can be rated and reviews about products can be provided.
   - Admin Control Panel: Can monitor the portal.
 - Technologies Used
-  - Front End: HTML, CSS, JavaScript, jQuery, Google Graphs, Ajax
+  - Front End: HTML, CSS, JavaScript, jQuery, Google Charts, Ajax
   - Java Web technologies: JSP, Servlet  
   - Database: Mongo DB, MySQL
